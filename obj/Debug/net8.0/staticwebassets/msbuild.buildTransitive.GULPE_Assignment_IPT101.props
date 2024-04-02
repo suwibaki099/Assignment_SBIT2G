@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GULPE_Assignment_IPT101.props" />
+</Project>

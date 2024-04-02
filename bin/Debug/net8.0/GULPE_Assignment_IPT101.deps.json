@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GULPE_Assignment_IPT101/1.0.0": {
+        "runtime": {
+          "GULPE_Assignment_IPT101.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GULPE_Assignment_IPT101/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

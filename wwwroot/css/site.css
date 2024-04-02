@@ -1,0 +1,172 @@
+/*html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}*/
+
+body {
+  margin-bottom: 60px;
+  background-image: url(galaxy.png);
+  background-size: cover;
+}
+
+#title {
+  position: relative;
+  background: red;
+  padding: 2px;
+  border-color: black;
+  width: 350px;
+  height: 105px;
+  border: 5px solid;
+  border-color: black;
+  margin-top: 35px;
+  font-size: 60px;
+  font-family: cursive;
+}
+
+h1 {
+  color: wheat;
+  font-family: cursive;
+  margin-top: 1px;
+}
+
+p {
+  color: white;
+}
+
+#choices {
+  position: relative;
+  color: white;
+  text-align: center;
+  bottom: -155px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#image1 {
+  position: absolute;
+  bottom: -125px;
+  left: 150px;
+}
+
+#image2 {
+  position: absolute;
+  bottom: -125px;
+  right: 150px;
+}
+
+#image3 {
+  position: absolute;
+  bottom: -125px;
+  right: 780px;
+}
+
+#button1 {
+  position: absolute;
+  bottom: -194px;
+  left: 252px;
+  width: 150px;
+  font-size: 18px;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: mediumpurple;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+#button1:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+}
+
+#button2 {
+  position: absolute;
+  bottom: -194px;
+  left: 888px;
+  width: 150px;
+  font-size: 18px;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: mediumpurple;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+#button2:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+}
+
+#button3 {
+  position: absolute;
+  bottom: -194px;
+  left: 1535px;
+  width: 150px;
+  font-size: 18px;
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color: mediumpurple;
+  color: black;
+  cursor: pointer;
+  font-weight: bold;
+  text-align: center;
+}
+
+#button3:hover {
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: -680px;
+}
+
+#paragraph {
+  position: relative;
+  color: white;
+  text-align: center;
+  bottom: -155px;
+  font-size: 18px;
+}
+
+#quote {
+  position: relative;
+  color: white;
+  text-align: center;
+  bottom: -775px;
+  font-size: 20px;
+}
+
+#p2 {
+  font-weight: lighter;
+}
